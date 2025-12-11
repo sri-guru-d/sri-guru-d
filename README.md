@@ -5,7 +5,7 @@ Currently doing my M.Tech @ Pondicherry University
 <!--- 🔭 Here's my [portfolio](https://hareesh.web.app/)    -->                                             
 - 🌱 I’m currently learning DL and Integrating AI to my workflow
 - Bachelors at [<img src="https://smvec.ac.in/wp-content/uploads/2024/05/logo.png">](https://smvec.ac.in/),
-- Masters at [<img src="https://www.pondiuni.edu.in/wp-content/uploads/2020/05/PU_Logo-BG-White.png">](https://www.pondiuni.edu.in/),
+- Masters at [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-VQWxSDR5Cgx_oA1G-vd6lnRB0nhxDO3yg&s">](https://www.pondiuni.edu.in/),
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
