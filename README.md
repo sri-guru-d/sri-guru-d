@@ -1,8 +1,9 @@
 ## Hi there 👋 It's me Guru
 
 Currently doing my M.Tech @ Pondicherry University
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-<!--- 🔭 Here's my [portfolio](https://hareesh.web.app/)    -->                                             
+<img align="right" width="370" height="290" src="https://github.com/user-attachments/assets/f64a0e4f-5b74-4393-8bf9-0e8dff405c23">
+<!--- 🔭 Here's my [portfolio](https://hareesh.web.app/)    -->               
+                             
 - 🌱 I’m currently learning DL and Integrating AI to my workflow
 - Bachelors at [Sri Manakula Vinayagar Engineering College](https://smvec.ac.in/),
 - Currently doing Masters at [Pondicherry University](https://www.pondiuni.edu.in/),
